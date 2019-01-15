@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="seconds" type = "id"/>
+    <item name="minutes" type = "id"/>
+</resources>
